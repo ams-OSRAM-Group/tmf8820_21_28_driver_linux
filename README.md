@@ -1,5 +1,7 @@
 # Time-of-Flight (ToF) Linux Reference Driver
 
+The driver was developed on tested with the [ams OSRAM TMF882X_EVM_DB_DEMO Evaluation kit](https://ams-osram.com/products/boards-kits-accessories/kits/ams-tmf882x-evm-db-demo-evaluation-kit). This EVM includes a [Rasperry PI Zero](https://www.raspberrypi.com/products/raspberry-pi-zero-w/) where the Linux driver is operating.
+
 1. Description
 
     Contains the release files for adding tmf882x support to the linux kernel
